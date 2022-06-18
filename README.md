@@ -20,8 +20,9 @@ npm i
 
 ## Config **React** weather-app
 
-1.  change .env.temp to .evn file
-2.  add **openweathermap** API KEY on .env file
+1.  Create .env file on root Folder.
+2.  Add REACT_APP_WEATHER_API_KEY="openweathermap_API_KEY" inside in .env file.
+3.  Change openweathermap_API_KEY to **openweathermap API Key**.
 
 ---
 
