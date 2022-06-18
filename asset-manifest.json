@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.dbfc56d1.css",
+    "main.js": "/Weather-App/static/js/main.64df0bba.js",
+    "static/media/james-wheeler.jpg": "/Weather-App/static/media/james-wheeler.63fed7a2543d562f83dd.jpg",
+    "index.html": "/Weather-App/index.html",
+    "main.dbfc56d1.css.map": "/Weather-App/static/css/main.dbfc56d1.css.map",
+    "main.64df0bba.js.map": "/Weather-App/static/js/main.64df0bba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbfc56d1.css",
+    "static/js/main.64df0bba.js"
+  ]
+}
