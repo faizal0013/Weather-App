@@ -20,7 +20,11 @@ const Search = () => {
 
   return (
     <>
-      <form className="w-64 absolute bottom-52 left-64" onSubmit={submitFormHandler}>
+      <form
+        className="w-64 absolute bottom-52 left-64
+                      sm:left-16 md:left-24 lg:left-64"
+        onSubmit={submitFormHandler}
+      >
         <input
           type="text"
           onChange={inputHandler}
