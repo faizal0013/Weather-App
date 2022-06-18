@@ -1,5 +1,7 @@
 # Weather App
 
+## [live](https://faizal0013.github.io/Weather-App/)
+
 This is an _simple_ **React** **Weather** **app**
 
 ---
@@ -35,3 +37,4 @@ npm i
 ## npm packages
 
 - axios
+- gh-pages
